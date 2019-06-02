@@ -1,245 +1,183 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
+    <!--  Bootstrap CSS  -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+    <!-- Title of Web Page -->
     <title>Rahul Yadav</title>
     <style type="text/css">
-    .jumbotron{
-      background: none;
-      margin: 50px;
-      padding: 1%;
-      /* border: black solid 1px; */
-    }
-    /* body{
-      background-image: linear-gradient(to bottom, #e34475, #d5468e, #bf4ea4, #a258b5, #7e62c0, #6b70c9, #597cce, #4a87cf, #5f9bd4, #79aed9, #96c0dc, #b6d2e1);
-        Full height
-          height: 100%; 
-
-        Center and scale the image nicely
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-    } */
-
-    a{
-      color: black;
-      text-decoration: underline;
-      }
-    a:hover{
-      text-decoration: underline;
-    }
     
     </style>
-   
-  </head>
-  
-  <!-- <body background="assets\img\back1.jpg" > -->
-    <body>
-      
-    <!-- Head containing navbar and jumbotron -->
-    <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
-    <div class="container" >
-      <nav class="navbar  fixed-top navbar-expand-lg navbar-light">
-          <a class="navbar-brand" href="#"> 
-            <strong></strong> </a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-              <li class="nav-item active">
-                <a class="nav-link" href="#">About Me! <span class="sr-only">(current)</span></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Projects</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Pricing</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Dropdown link
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
-                </div>
-              </li>
-            </ul>
-          </div>
+
+</head>
+<body>
+    <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+    <!-- Section-1: Contain  Nav Bar and About Me Section  -->
+    <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+    <div class="container-fluid" style="background-image: linear-gradient(to bottom, #d16ba5, #c37bbf, #b08bd3, #9a9ae1, #86a8e7);">
+        <!-- Navbar -->
+        <nav class="navbar  fixed-top navbar-expand-lg navbar-dark">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- navbar options -->
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">About Me!
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Pricing</a>
+                    </li>
+                </ul>
+            </div>
         </nav>
-        </div>
-
-    <div class="container"> 
-          <div class="jumbotron">
+        <!-- jumbotron About Me Section -->
+        <div class="jumbotron" style="background: none;">
             <div class="row">
-              <div class="col-lg-4">
-                <img src="assets/img/profile1.jpg" height="250" width="250" alt="" style="border-radius: 50%; margin:20px;">
+                <div class="col-lg-4 text-center" style="padding-left: 5%;">
+                    <img src="assets/img/profile1.jpg" height="250" width="250" alt="" style="border-radius: 50%; margin:20px;">
+                </div>
+                <div class="col-lg-8" style="padding-right: 5%">
+                    <h1 style="text-align: center; font-family: 'Courier New', Courier, monospace; ">
+                        <strong> <u>About Me!!</u> </strong>
+                    </h1>
+                    <br>
+                    <h4 style="font-family:'Courier New', Courier, monospace; text-align: justify;">
+                        Hi!!, <br>
+                        I am Rahul Yadav, PhD research scholar in Electronics & Communication Department at 
+                        <a href="http://dcrustm.ac.in/departments/engineering/electronics-and-communications-engineering/" target="_blank"> DCR University of Science and Technology</a>, Murthal (India).
+                        My Research is in an area of computer vision and machine learning.  Working on 
+                        <em> ”Detection and Classification of Human Facial Micro-Expressions” </em>
+                        under
+                        supervision of Dr (Prof.) Priyanka. 
+                    </h4>
+                </div>
             </div>
-            <div class="col-lg-8 text-center">
-              <h1 style="text-align: left;; font-family: 'Courier New', Courier, monospace; ">
-                <strong> <u>Rahul Yadav</u> </strong>
-              </h1>
-              <h4 style="font-family:'Courier New', Courier, monospace; text-align: justify;">Hi!!, <br>
-                
-                I am Rahul Yadav, PhD research scholar in Electronics & Communication 
-                Department at <a href="http://dcrustm.ac.in/departments/engineering/electronics-and-communications-engineering/" target="_blank"> DCR University of Science and Technology</a>, Murthal (India).
-                My Research is in an area of computer vision and machine learning.  Working on 
-                <em> ”Detection and Classification of Human Facial Micro-Expressions” </em>under
-                supervision of Dr (Prof.) Priyanka. </h4>
-            </div>
-           </div>
-          </div>
-      </div>
-
-
-
-      <div class="card text-xl-center" style="background: none; border: none;">
-    
-        <div class="card-body">
-          <blockquote class="blockquote mb-0">
-            <p><em>"Climbing to the top demands strength, whether it is to 
-              the top of Mount Everest or to the top of your career."</em></p>
-            <footer class="blockquote-footer">Dr A. P. J. Abdul Kalam 
-             <br> <cite title="Source Title">Peoples President Of India</cite></footer>
-          </blockquote>
         </div>
-      </div>
-<div class="clear" style="clear: both"></div>
-<!-- Projects -->
-<!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
+        <!-- Quotes -->
+        <div class="card text-xl-center" style="background: none; border: none;">
+            <div class="card-body">
+                <blockquote class="blockquote mb-0">
+                    <p><em>"Climbing to the top demands strength, whether it is to 
+                        the top of Mount Everest or to the top of your career."</em></p>
+                    <footer class="blockquote-footer">Dr A. P. J. Abdul Kalam 
+                     <br> <cite title="Source Title">Peoples President Of India</cite>
+                    </footer>
+                </blockquote>
+            </div>
+        </div>
+    </div>
 
-      <div class="container-fluid" style="background-image: linear-gradient(to bottom, #cbd66a, #b7de81, #a5e399, #98e7b1, #92eac7, #8de7d1, #8ee3da, #92dfdf, #92d5dd, #95cbd8, #98c2d1, #9bb8c8);">
-        <h1 style="text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;padding: 5% 0;"> <strong><u> Projects</u> </strong> </h1>
-        <div class="row justify-content-center" >
+    <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+    <!-- Section-2: Blogs                               -->
+    <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+    <div class="container-fluid" style="background-image: linear-gradient(to bottom, #86a8e7, #87afe7, #8ab6e6, #90bde4, #98c3e2, #96cae6, #95d0ea, #95d7ed, #86e0f3, #77e9f6, #68f2f6, #5ffbf1);">
+        <h1 style="text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;padding: 5% 0;"> 
+            <strong>Blog</strong> 
+        </h1>
+        <div class="row justify-content-center">
+            <!-- Cards -->
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="assets/img/logo.png" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="card-link">Card link</a>
+                </div>
+            </div>  
 
+        </div>
+    </div>
+
+
+    <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+    <!-- Section-3: Projects                            -->
+    <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+    <div class="container-fluid" style="background-image: linear-gradient(to bottom, #5ffbf1, #72f6eb, #81f1e6, #8eece1, #99e7dc, #9be4da, #9ee1d8, #a0ded6, #9cddd6, #98dbd7, #94dad7, #90d8d8);">
+        <h1 style="text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;padding: 5% 0;"> 
+            <strong>Projects</strong> 
+        </h1>
+        <div class="row justify-content-center">
+            <!-- Cards -->
             <div class="card " style="width: 18rem;margin: 1%;">
                 <img src="..." class="card-img-top" alt="...">
                 <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                  <a href="#" class="btn btn-primary">Go somewhere</a>
-                </div>
-              </div>
-  
-              <div class="card " style="width: 18rem;margin: 1%;">
-                  <img src="..." class="card-img-top" alt="...">
-                  <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <a href="#" class="btn btn-primary">Go somewhere</a>
-                  </div>
                 </div>
-  
-                <div class="card" style="width: 18rem; margin: 1%;">
-                    <img src="..." class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                  </div>
-
-                  <div class="card" style="width: 18rem; margin: 1%;">
-                      <img src="..." class="card-img-top" alt="...">
-                      <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                      </div>
-                  </div>
-
-                  <div class="card" style="width: 18rem; margin: 1%;">
-                      <img src="..." class="card-img-top" alt="...">
-                      <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                      </div>
-                  </div>
-
-
-
-                  
-
-
-
-        </div>
-        <div class="card text-xl-center" style="background: none; border: none;">
-    
-            <div class="card-body">
-              <blockquote class="blockquote mb-0">
-                <p> <em> "When an idea exclusively occupies the mind, it is transformed into an 
-                  actual physical or mental state." </em></p>
-                <footer class="blockquote-footer">Swami Vivekananda 
-                 <br> <cite title="Source Title">Indian Greatest</cite></footer>
-              </blockquote>
             </div>
-          </div>
-      </div>
-
-      <div class="clear" style="clear: both"></div>
-  
-      <!-- Blogs -->
-<!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
-
-<div class="container-fluid" style="background-image: linear-gradient(to bottom, #dde1bc,
- #d6e3c5, #d1e5ce, #cfe6d6, #d0e6dd, #cee4df, #cde3e0, #cce1e1, #c5dee1, #bfdae0
- , #bad6e1, #b6d2e1); background-size: cover;">
-    <h1 style="text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; padding-top: 5%"> <strong><u> Blogs</u> </strong> </h1>
-    <div class="row justify-content-center" >
-        <div class="card " style="width: 18rem;margin: 1%;">
-            <img src="..." class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
-            </div>
-          </div>
-
-          <div class="card " style="width: 18rem;margin: 1%;">
-              <img src="..." class="card-img-top" alt="...">
-              <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
-              </div>
-            </div>
-
-            <div class="card" style="width: 18rem; margin: 1%;">
+            <div class="card " style="width: 18rem;margin: 1%;">
                 <img src="..." class="card-img-top" alt="...">
                 <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                  <a href="#" class="btn btn-primary">Go somewhere</a>
-                </div>
-              </div>
-              <div class="card" style="width: 18rem; margin: 1%;">
-                  <img src="..." class="card-img-top" alt="...">
-                  <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <a href="#" class="btn btn-primary">Go somewhere</a>
-                  </div>
                 </div>
-
+            </div>
+            <div class="card " style="width: 18rem;margin: 1%;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+            <div class="card " style="width: 18rem;margin: 1%;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+            <div class="card " style="width: 18rem;margin: 1%;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+            <div class="card " style="width: 18rem;margin: 1%;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+            <div class="card " style="width: 18rem;margin: 1%;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+            <div class="card " style="width: 18rem;margin: 1%;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+            
+        </div>
     </div>
-  </div>
-
-
-
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-  </body>
+</body>
 </html>
