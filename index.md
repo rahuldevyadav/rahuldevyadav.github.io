@@ -1,4 +1,4 @@
-[](images/bg.png)
+![](images/bg.png)
  
 _Welcome to my personal blogging site dedicated to the exciting fields of computer vision and deep learning! My site is a platform for sharing my passion for these cutting-edge technologies and providing valuable insights and resources for others interested in learning more._
 
