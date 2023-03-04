@@ -1,7 +1,4 @@
-<!-- Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/rahul.jpg)
- -->
+[](images/bg.png)
  
 _Welcome to my personal blogging site dedicated to the exciting fields of computer vision and deep learning! My site is a platform for sharing my passion for these cutting-edge technologies and providing valuable insights and resources for others interested in learning more._
 
