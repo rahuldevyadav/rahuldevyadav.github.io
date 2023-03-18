@@ -1,9 +1,13 @@
 
 # DSA: Day # 1 (Array)
 ---
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhat-is-array%2F&psig=AOvVaw35mtvavLYsjgfECtwHYUEz&ust=1679243408009000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCc86fz5f0CFQAAAAAdAAAAABAR](dsa1/array.png)
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhat-is-array%2F&psig=AOvVaw35mtvavLYsjgfECtwHYUEz&ust=1679243408009000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCc86fz5f0CFQAAAAAdAAAAABAR](./dsa1/array.png)
 
 
+---
+1. TOC
+{:toc}
+---
 
 ### Defination of Array
 
@@ -16,16 +20,13 @@ The main characterstic of array's are:
 	3. Each element has unique index.
 	4. The size of array is predifined and cannot be modified. 
 
-### _Types of arrays:_
+### Types of arrays:
 - 1-D Array (one dimasional array) -  Values can be decleared with single index for e.g. 
 a[i] -> i is between 0 & n.
 
  
 
-Here's the table of contents:
 
-1. TOC
-{:toc}
 
 ## Basic setup
 
