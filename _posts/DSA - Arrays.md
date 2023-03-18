@@ -1,6 +1,16 @@
+
 # DSA: Day # 1 (Array)
 ---
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhat-is-array%2F&psig=AOvVaw35mtvavLYsjgfECtwHYUEz&ust=1679243408009000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCc86fz5f0CFQAAAAAdAAAAABAR](dsa1/array.png)
 
+
+
+### Defination of Array
+
+> Array's are defined as "collection of same type of elements stored in contiguous memory locations".
+
+The main characterstic of array's are  
+ 
 
 
 
