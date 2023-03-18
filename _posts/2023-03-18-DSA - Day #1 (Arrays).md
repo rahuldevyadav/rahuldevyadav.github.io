@@ -16,6 +16,7 @@ The main characterstic of array's are:
 	3. Each element has unique index.
 	4. The size of array is predifined and cannot be modified. 
 
+### _Types of arrays:_
 
 
 Here's the table of contents:
