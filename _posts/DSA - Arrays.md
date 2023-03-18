@@ -9,8 +9,12 @@
 
 > Array's are defined as "collection of same type of elements stored in contiguous memory locations".
 
-The main characterstic of array's are  
+The main characterstic of array's are:
  
+	1. It can store data of same data types.
+	2. Array elements are stored at contigunous memory location.
+	3. Each element has unique index.
+	4. The size of array is predifined and cannot be modified. 
 
 
 
