@@ -1,0 +1,55 @@
+# Artifical Neural Network (ANN): Introduction 
+
+According to Universal Approximation Theorem 
+> Neural networks with give right arichtecure with correct weights can extaactly maps inputs to there coreesponding outputs.
+
+
+<!--  1. toc +-{:toc} -->
+---
+## What are ANN's?
+
+ANN's are core of deeplearning and inspired by the bilogical neuron. ANN's can be thought as a fuction that maps inputs to output. This mapping is perforemed using set operations (Multiplicative and additive operations). The arrangement of mathematical operations defines 
+architecture. General Architecture of ANN is shown below, depends on the type of input that we feed into it, and type of outputs we are expecting to get from it:
+
+![](images/ann_1_f1.png "ANN Architecture")
+
+
+Each node in figure shown above, can be thought as preceptron. 
+
+
+### The Preceptron: Simplest ANN
+
+This model was proposed _Frank Rosenballt_ in 1957 called it **_Threshold Logic Unit (TLU)_** which are also often reffred as **_Linear Threshold Unit (LTU)_**. The TLU's performed mathematical operations.
+
+
+![](images/ann_1_f2.jpg "ANN Architecture")
+
+Each input to model is assosiated with weights. Computed the wigthed sum of inputs and there weightsis passed throgh activation fuction. Intially TLU were proposed with Heavside step function or commonly known as sign function.  
+
+![](images/ann_1_f2b.jpg "Explaination")
+
+
+Inputs to TLU are fed through special layer  neurons which passes input values as it is at output. All the input neurons are grouped in layer called *Input Layer*.
+
+>**Note :** Generally a bias is added to input layer (x=1).
+
+When more than one TLU's are used and each TLU's are conected to every Input (As shown in fisrt figure: Nodes). TLU's connected with input's form first layer of ANN's and then output of first layer becaomes input to second and so on till last layer which produces predicted output. If each node (neuron) in a layer is connected to output of every node of pervious  layer that layer is called _fully connected layer_.
+
+>**Note :** Weights in ANN are adjustable. Weights are adjusted when network is trained.
+
+### Components of ANN's
+
+- **Input Layer** takes independent  variable such as inputs.
+
+- **Hidden Layers** connect input to the output. The main fuction of input layers is to get best representative features of input. Number of hidden layers increase with complexiety of the problem. 
+
+- **Output Layer** produces the values expected for given input.
+
+
+## Flow Information in ANNs 
+
+The information or data in ANN follows in two directions
+
+1. Forward    
+
+ 

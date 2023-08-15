@@ -1,35 +1,17 @@
+# Artifical Neural Network (ANN): Introduction 
 
-# DSA: Day # 1 (Array)
----
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhat-is-array%2F&psig=AOvVaw35mtvavLYsjgfECtwHYUEz&ust=1679243408009000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCc86fz5f0CFQAAAAAdAAAAABAR](/images/blogs/dsa1/array.png)
+According to Universal Approximation Theorem 
+> Neural networks with give right arichtecure with correct weights can extaactly maps inputs to there coreesponding outputs.
 
 
----
+Blog is organised as follows:
+
 1. TOC
 {:toc}
----
 
-### Defination of Array
 
-> Array's are defined as "collection of same type of elements stored in contiguous memory locations".
-
-The main characterstic of array's are:
+## What are ANN's?
  
-	1. It can store data of same data types.
-	2. Array elements are stored at contigunous memory location.
-	3. Each element has unique index.
-	4. The size of array is predifined and cannot be modified. 
-
-### Types of arrays:
-- 1-D Array (one dimasional array) -  Values can be decleared with single index e.g. 
-
- 
-- n-D (multidimensional array) - multiple index values required to declear array element e.g. _2-D array_ - a[i][j].
-
- 
-
-
-## Basic setup
 
 Jekyll requires blog post files to be named according to the following format:
 
