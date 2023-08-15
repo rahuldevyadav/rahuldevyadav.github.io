@@ -1,10 +1,7 @@
 ## About Me !! 
 
-
-I am a Senior Modeling Analyst at [Moody's - Risk Management Solutions](https://www.rms.com/), with a passion for problem-solving and taking on challenging computer vision projects. My expertise lies in developing novel deep learning models (CNN) using PyTorch and TensorFlow frameworks, and I have also worked with OpenCV, Pandas, GeoPandas, and QGIS.
-
-In my previous role as a Research Scholar at DCRUST, Sonepat, India, I focused on detecting and classifying human facial micro-expressions and published and presented five research papers. I have also received recognition for my work, including the best technical poster presentation award at NCMBS-20 (National Conference).
-
-In addition to my technical skills, I have a passion for playing chess and traveling. My competencies include Python, Keras, Machine Learning, TensorFlow, Tableau, PyTorch, SQL, GitHub, and Excel.
-
-
+Greetings! I'm "[Rahul Yadav](https://www.linkedin.com/in/rahulyadav1711/)," a passionate and driven individual who thrives at the intersection of academia and industry, with a strong foothold in computer vision. In addition to working as a Senior Modelling Analyst at RMS - Moody's, I'm pursuing a Ph.D. in Computer Vision at DCRUST, Murthal, where I'm engaged in the fascinating research universe.
+My journey has been exciting, filled with diverse challenges and rewarding accomplishments. My academic endeavors as a Ph.D. candidate at DCRUST, Murthal, reflect my enduring fascination and commitment to understanding the complexities of computer vision. I've committed my life to understanding the fundamental concepts governing visual information decoding and continually expanding our understanding of this fast-moving area.
+On the professional front, I get an opportunity to put my theoretical understanding into practice by working as a Senior Modelling Analyst at RMS - Moody's. I've worked on various issues, from image recognition to panoptic segmentation, using my knowledge to develop deep-learning models. This role has given me a unique opportunity to witness firsthand the transformation of theoretical concepts into tangible solutions that have a meaningful impact.
+Fusing my academic pursuits and practical experience has shaped me into a well-rounded individual. I take pride in being a thought leader in image analysis and computer vision. My journey underscores the importance of bridging the gap between theoretical exploration and industrial application, showcasing how insights derived from research can translate into innovations that drive progress.
+I find inspiration in the challenges I've overcome and the accomplishments I've achieved. I look forward to the exciting adventures that lie ahead in my ongoing pursuit of pushing the boundaries of computer vision and its applications.
