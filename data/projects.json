@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "E-Commerce Platform",
+        "description": "A full-stack e-commerce solution with real-time inventory management, secure payment processing, and admin dashboard.",
+        "technologies": ["React", "Node.js", "MongoDB", "Stripe API"],
+        "demo": "https://demo-ecommerce.com",
+        "github": "https://github.com/yourusername/ecommerce-platform",
+        "image": "images/projects/ecommerce-platform.jpg",
+        "featured": true,
+        "status": "completed"
+    },
+    {
+        "id": 2,
+        "title": "AI-Powered Chat Application",
+        "description": "Real-time chat application with AI-powered message suggestions and smart reply features using natural language processing.",
+        "technologies": ["Python", "Flask", "OpenAI API", "WebSocket"],
+        "demo": "https://demo-chat.com",
+        "github": "https://github.com/yourusername/ai-chat-app",
+        "image": "images/projects/ai-chat-app.jpg",
+        "featured": true,
+        "status": "completed"
+    },
+    {
+        "id": 3,
+        "title": "Data Visualization Dashboard",
+        "description": "Interactive dashboard for analyzing complex datasets with customizable charts, filters, and real-time data updates.",
+        "technologies": ["D3.js", "Vue.js", "Python", "PostgreSQL"],
+        "demo": "https://demo-dashboard.com",
+        "github": "https://github.com/yourusername/data-visualization",
+        "image": "images/projects/data-dashboard.jpg",
+        "featured": true,
+        "status": "completed"
+    }
+]
