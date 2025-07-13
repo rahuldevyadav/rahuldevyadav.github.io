@@ -1,32 +1,12 @@
 [
     {
         "id": 1,
-        "title": "Understanding Modern Web Architecture",
-        "excerpt": "Exploring the latest trends in web development, from microservices to serverless architecture and their impact on scalability.",
+        "title": "Large Language Models Guide 2025: Complete LLM Comparison",
+        "excerpt": "Complete guide to Large Language Models (LLMs) in 2025. Compare open source vs closed source, understand embeddings, and choose between LLM APIs and chat models like ChatGPT, Claude AI..",
         "category": "Technology",
         "date": "Jan 15, 2025",
         "image": "images/blog-thumbnails/web-architecture.jpg",
-        "url": "blog/tech/modern-web-architecture.html",
-        "tags": ["web development", "architecture", "scalability"]
-    },
-    {
-        "id": 2,
-        "title": "The Future of AI in Software Development",
-        "excerpt": "How artificial intelligence is transforming the way we write, test, and deploy code in modern development workflows.",
-        "category": "AI",
-        "date": "Jan 10, 2025",
-        "image": "images/blog-thumbnails/ai-development.jpg",
-        "url": "blog/tech/ai-in-software-development.html",
-        "tags": ["AI", "software development", "automation"]
-    },
-    {
-        "id": 3,
-        "title": "DevOps Best Practices for 2025",
-        "excerpt": "Essential DevOps strategies and tools that every development team should adopt for better collaboration and deployment.",
-        "category": "DevOps",
-        "date": "Jan 5, 2025",
-        "image": "images/blog-thumbnails/devops-practices.jpg",
-        "url": "blog/tech/devops-best-practices.html",
-        "tags": ["DevOps", "CI/CD", "deployment"]
+        "url": "blog/tech/llm_blog_post.html",
+        "tags": ["Large Language Models","open source vs closed source",  "NLP"]
     }
 ]
