@@ -35,6 +35,7 @@ class ContentManager {
                         <span class="category-tag">${blog.category}</span>
                         <span>${blog.date}</span>
                     </div>
+                    <button class="read-more" onclick="location.href='${blog.url}'">Read More ..</button>
                 </div>
             </article>
         `).join('');

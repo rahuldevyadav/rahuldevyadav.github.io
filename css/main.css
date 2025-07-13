@@ -321,3 +321,25 @@ footer {
     opacity: 1;
     transform: translateY(0);
 }
+
+
+.read-more {
+  display: inline-block;
+  margin-right: auto; 
+  margin-top: 1%;
+  padding: 5px 5px;
+  font-size: 14px;
+  color: #fff;
+  background-color: #e42f0f;
+  border: none;
+  border-radius: 25px;
+  text-decoration: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.read-more:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}

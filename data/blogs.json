@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Large Language Models Guide 2025: Complete LLM Comparison",
         "excerpt": "Complete guide to Large Language Models (LLMs) in 2025. Compare open source vs closed source, understand embeddings, and choose between LLM APIs and chat models like ChatGPT, Claude AI..",
-        "category": "Technology",
+        "category": ["Technology, AI, NLP, Large Language Models(LLMs)"],
         "date": "Jan 15, 2025",
         "image": "images/blog-thumbnails/web-architecture.jpg",
         "url": "blog/tech/llm_blog_post.html",
