@@ -18,5 +18,15 @@
         "image": "https://rahuldevyadav.github.io/images/blog-thumbnails/tech/large-language-models-guide-2025.jpeg",
         "url": "https://rahuldevyadav.github.io/blog/tech/langchain-prompt-templates-guide.html",
         "tags": ["AI - Large Language Models"]
+    },
+    {
+        "id": 3,
+        "title": "CI/CD Engineering at Scale: Architecture, Tools, and Real-World Implementation",
+        "excerpt": "Master CI/CD pipelines with real-world examples, architecture diagrams, and enterprise-grade configurations. Complete guide for DevOps professionals.",
+        "category": ["Technology, DevOps, CI/CD"],
+        "date": "July 19, 2025",
+        "image": "https://rahuldevyadav.github.io/images/blog-thumbnails/tech/cicd-pipeline-guide.jpg",
+        "url": "https://rahuldevyadav.github.io/blog/tech/cicd-pipeline-guide-2025.html",
+        "tags": ["DevOps", "CI/CD", "Automation"]
     }
 ]
