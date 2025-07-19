@@ -8,5 +8,36 @@
         "image": "https://rahuldevyadav.github.io/images/blog-thumbnails/gandhi-spiritual-wisdom-be-the-change.png",
         "url": "https://rahuldevyadav.github.io/blog/misc/gandhi-spiritual-wisdom-be-the-change.html",
         "tags": ["Gandhi", "spirituality", "self-transformation"]
+    },
+
+    {
+        "id": 2,
+        "title": "The Power of Mindfulness: Cultivating Inner Peace",
+        "excerpt": "Explore the transformative power of mindfulness and how it can lead to a more peaceful and fulfilling life.",
+        "category": "Wellness",
+        "date": "August 5, 2025",
+        "image": "https://rahuldevyadav.github.io/images/blog-thumbnails/mindfulness-inner-peace.png",
+        "url": "https://rahuldevyadav.github.io/blog/misc/mindfulness-inner-peace.html",
+        "tags": ["mindfulness", "wellness", "inner peace"]
+    },
+    {
+        "id": 3,
+        "title": "The Art of Letting Go: Embracing Change",
+        "excerpt": "Learn how to embrace change and let go of what no longer serves you for personal growth.",
+        "category": "Personal Development",
+        "date": "September 10, 2025",
+        "image": "https://rahuldevyadav.github.io/images/blog-thumbnails/letting-go-embracing-change.png",
+        "url": "https://rahuldevyadav.github.io/blog/misc/letting-go-embracing-change.html",
+        "tags": ["personal development", "change", "growth"]
+    },
+    {
+        "id": 4,
+        "title": "Finding Balance: The Key to a Harmonious Life",
+        "excerpt": "Discover the importance of balance in life and practical tips to achieve it.",
+        "category": "Lifestyle",
+        "date": "October 15, 2025",
+        "image": "https://rahuldevyadav.github.io/images/blog-thumbnails/finding-balance-harmonious-life.png",
+        "url": "https://rahuldevyadav.github.io/blog/misc/finding-balance-harmonious-life.html",
+        "tags": ["lifestyle", "balance", "harmony"]
     }
-]
+]   

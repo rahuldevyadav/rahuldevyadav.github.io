@@ -73,7 +73,7 @@ class ContentManager {
                     <div class="blog-meta">
                         <span class="category-tag">${post.category}</span>
                         <span>${post.date}</span>
-                        <button class="read-more" onclick="location.href='${blog.url}'">Read More ..</button>
+                        <button class="read-more" onclick="location.href='${post.url}'">Read More ..</button>
                     </div>
                 </div>
             </article>
