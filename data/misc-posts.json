@@ -1,32 +1,12 @@
 [
     {
         "id": 1,
-        "title": "The Beauty of Mathematical Patterns",
-        "excerpt": "Exploring how mathematical concepts like fractals and fibonacci sequences appear in nature and technology.",
-        "category": "Mathematics",
-        "date": "Dec 28, 2024",
-        "image": "images/blog-thumbnails/mathematical-patterns.jpg",
-        "url": "blog/misc/mathematical-patterns.html",
-        "tags": ["mathematics", "patterns", "nature"]
-    },
-    {
-        "id": 2,
-        "title": "Ethics in Technology: A Philosophical Perspective",
-        "excerpt": "Examining the moral implications of artificial intelligence and automation in modern society.",
-        "category": "Philosophy",
-        "date": "Dec 20, 2024",
-        "image": "images/blog-thumbnails/tech-ethics.jpg",
-        "url": "blog/misc/ethics-in-technology.html",
-        "tags": ["philosophy", "ethics", "technology"]
-    },
-    {
-        "id": 3,
-        "title": "Quantum Computing: Science Meets Technology",
-        "excerpt": "Understanding the scientific principles behind quantum computing and its potential applications.",
-        "category": "Science",
-        "date": "Dec 15, 2024",
-        "image": "images/blog-thumbnails/quantum-computing.jpg",
-        "url": "blog/misc/quantum-computing.html",
-        "tags": ["quantum computing", "science", "technology"]
+        "title": "Gandhi's Spiritual Wisdom: Be the Change You Want to See",
+        "excerpt": "Transform yourself and the world with Gandhi's timeless wisdom rooted in Upanishadic teachings.",
+        "category": "Spirituality",
+        "date": "July 19, 2025",
+        "image": "https://rahuldevyadav.github.io/images/blog-thumbnails/gandhi-spiritual-wisdom-be-the-change.png",
+        "url": "https://rahuldevyadav.github.io/blog/misc/gandhi-spiritual-wisdom-be-the-change.html",
+        "tags": ["Gandhi", "spirituality", "self-transformation"]
     }
 ]
