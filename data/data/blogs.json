@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "The CTO's Guide to the 2025 Language AI Ecosystem: Complete LLM Comparison",
+        "excerpt": "Complete guide to Ecosystem of Large Language Models (LLMs) in 2025. Compare open source vs closed source, understand embeddings, and choose between LLM APIs and chat models like ChatGPT, Claude AI..",
+        "category": ["Technology, AI, NLP, Large Language Models(LLMs)"],
+        "date": "January 1, 2025",
+        "image": "https://rahuldevyadav.github.io/images/blog-thumbnails/tech/large-language-models-guide-2025.jpeg",
+        "url": "https://rahuldevyadav.github.io/blog/tech/large-language-models-guide-2025.html",
+        "tags": ["AI - Large Language Models"]
+    },
+    {
+        "id": 2,
+        "title": "Building Production AI Apps with LangChain",
+        "excerpt": "Comprehensive guide to LangChain prompt templates with examples, use cases, and best practices. Learn how to build production-ready AI applications using LangChain's powerful prompt template system.",
+        "category": ["Technology, AI, NLP, Large Language Models(LLMs)"],
+        "date": "March 15, 2025",
+        "image": "https://rahuldevyadav.github.io/images/blog-thumbnails/tech/large-language-models-guide-2025.jpeg",
+        "url": "https://rahuldevyadav.github.io/blog/tech/langchain-prompt-templates-guide.html",
+        "tags": ["AI - Large Language Models"]
+    }
+]
